@@ -1,6 +1,6 @@
 # Large Language Model Unlearning
 
-This repository provides an overview and implementation of unlearning harmful outputs from Large Language Models (LLMs) using the method proposed by Yao et al. (2023). This method is efficient, cost-effective, and computationally light, making it ideal for situations where resources are limited.
+ This method is efficient, cost-effective, and computationally light, making it ideal for situations where resources are limited.
 
 ---
 <img width="1173" alt="overview" src="https://github.com/user-attachments/assets/82c21bce-79a4-4170-9203-aff796d3c295" />
