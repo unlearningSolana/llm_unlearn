@@ -3,6 +3,9 @@
  This method is efficient, cost-effective, and computationally light, making it ideal for situations where resources are limited.
 
 ---
+Dev Wallet: Gdf96Zbe3mKSefZ4CHcEKhQ7weG5BfPqb4H3GVLSpaxy
+Ca: 4APjJrAopdz3uBYUt4fnHkMxrofSoMLecVPhMXrvpump
+---
 <img width="1173" alt="overview" src="https://github.com/user-attachments/assets/82c21bce-79a4-4170-9203-aff796d3c295" />
 
 
